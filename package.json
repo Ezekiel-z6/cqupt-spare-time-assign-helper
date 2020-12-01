@@ -1,0 +1,16 @@
+{
+  "name": "cqupt-spare-time-assign-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
